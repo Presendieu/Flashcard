@@ -7,7 +7,7 @@ This app displays a questions and three answers
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/Presendieu/Flashcard/blob/master/GIF-2024-03-18-16-50-15.gif" width=200><br>
 
 
 ## Required
